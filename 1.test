@@ -1,0 +1,10 @@
+[Interface]
+  PrivateKey = CH58fyszrZdauCcRzoQeHhXUmuziMm1jFtxawEninM=
+  Address = 192.168.100.2/32
+  MTU = 1420
+
+[Peer]
+  PublicKey = WDFJ2p4P6ljXs74zQAUZtEZxi/1huM2IvwSVOgKNdmE=
+  Endpoint = kekoputa.com:
+  AllowedIPs = 192.168.100.2/24
+  PersistentKeepalive = 25 
